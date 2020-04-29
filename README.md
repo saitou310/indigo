@@ -1,5 +1,6 @@
 # indigo
-NTTのVPSサービスIndigoのAPIを気軽につけるようにするクラスを作る
+NTTのVPSサービスIndigoのAPIを気軽につけるようにする<br>
+PHPのクラスを作る
 
 indigo<br>
 https://web.arena.ne.jp/indigo/
